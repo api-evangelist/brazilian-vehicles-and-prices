@@ -1,4 +1,16 @@
 aid: brazilian-vehicles-and-prices
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/brazilian-vehicles-and-prices.png
 name: Brazilian Vehicles and Prices
 description: "Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe"
 url: https://deividfortuna.github.io/fipe/
