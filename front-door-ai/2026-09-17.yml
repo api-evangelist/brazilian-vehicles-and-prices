@@ -1,0 +1,21 @@
+# Front Door AI Index — brazilian-vehicles-and-prices — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: brazilian-vehicles-and-prices
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: deividfortuna.github.io
+  final_host: deividfortuna.github.io
+  ownership: own
+  owner: brazilian-vehicles-and-prices
+  shares_host_with: null
+  inherited_from: null
+  verdict: unmeasured
+  score: null
+  host_score: null
+  density: null
+  words: null
+  tiers: null
+  ambiguous: null
+  top_terms: null
