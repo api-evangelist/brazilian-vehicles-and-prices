@@ -42,7 +42,6 @@ apis:
   - name: Brazilian Vehicles and Prices
     description: "Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe"
     humanURL: https://deividfortuna.github.io/fipe/
-    baseURL: https://deividfortuna.github.io/fipe/
     tags:
       - Vehicles
     tags_raw:
